@@ -148,55 +148,34 @@ In summary, formal verification is ideal for ensuring correctness and security a
 #### Or an example from Bastion
 
 ```solidity 
-    function check_test_initiatePayment(
-        uint256 amount,
-        uint256 _validUntil,
-        uint256 paymentInterval,
-        address FalseToken) public {
+        function _check_transferFrom(address caller, address from, address to, address other, uint256 amount) public virtual {
+        require(other != from);
+        require(other != to);
 
-        address subscriber = holders[0];
+        uint256 oldBalanceFrom   = IERCOLAS(token).balanceOf(from);
+        uint256 oldBalanceTo     = IERCOLAS(token).balanceOf(to);
+        uint256 oldBalanceOther = IERCOLAS(token).balanceOf(other);
 
-        vm.assume (1 ether <= amount && amount <= 1000 ether);
-        vm.assume (1 days <= paymentInterval && paymentInterval <= 365 days);
-        vm.assume (1 days <= _validUntil && _validUntil <= 365 days);
-        vm.assume (FalseToken != address(token));
+        uint256 oldAllowance = IERCOLAS(token).allowance(from, caller);
 
-        uint256 validUntil = block.timestamp + _validUntil;
-        vm.assume(amount > 0 && paymentInterval > 0 && validUntil > block.timestamp);
+        vm.prank(caller);
+        IERCOLAS(token).transferFrom(from, to, amount);
 
-        vm.prank(subscriber);
-        bool hasFailed = false;
-        try initiator.registerSubscription(subscriber, amount, validUntil, paymentInterval, FalseToken) {
-        } catch {
-            hasFailed = true;
+        if (from != to) {
+            assert(IERCOLAS(token).balanceOf(from) <= oldBalanceFrom);
+            assert(IERCOLAS(token).balanceOf(from) == oldBalanceFrom - amount);
+            assert(IERCOLAS(token).balanceOf(to) >= oldBalanceTo);
+            assert(IERCOLAS(token).balanceOf(to) == oldBalanceTo + amount);
+
+            assert(oldAllowance >= amount); // ensure allowance was enough
+            assert(oldAllowance == type(uint256).max || IERCOLAS(token).allowance(from, caller) == oldAllowance - amount); // allowance decreases if not max
+        } else {
+            assert(IERCOLAS(token).balanceOf(from) == oldBalanceFrom);
+            assert(IERCOLAS(token).balanceOf(to) == oldBalanceTo);
         }
-        if (hasFailed) {
-            fail("La llamada a registerSubscription ha revertido de manera inesperada.");
-        }
-
-        ISubExecutor.SubStorage memory sub = initiator.getSubscription(subscriber);
-        assertEq(sub.amount, amount);
-        assertEq(sub.validUntil, validUntil);
-        assertEq(sub.paymentInterval, paymentInterval);
-        assertEq(sub.subscriber, subscriber);
-        assertEq(sub.initiator, address(initiator));
-        assertEq(sub.erc20Token, address(FalseToken));
-        assertEq(sub.erc20TokensValid, FalseToken != address(0));
-
-        uint256 warpToTime = block.timestamp + 1 days;
-        vm.assume(warpToTime > block.timestamp && warpToTime < validUntil);
-        vm.warp(warpToTime);
-// vm.warp(svm.createUint(64, "timestamp2"))
-
-        vm.prank(subscriber);
-        bool success;
-        try initiator.initiatePayment(subscriber) {
-            success = true;
-        } catch {
-            success = false;
-        }
-        assert(success == true);
+        assert(IERCOLAS(token).balanceOf(other) == oldBalanceOther);
     }
+
 ````
 
 ### Ityfuzz:
