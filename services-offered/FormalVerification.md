@@ -145,7 +145,7 @@ In summary, formal verification is ideal for ensuring correctness and security a
     }
 ```
 
-#### Or an example from Bastion
+#### ===
 
 ```solidity 
         function _check_transferFrom(address caller, address from, address to, address other, uint256 amount) public virtual {
