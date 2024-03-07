@@ -1,0 +1,12 @@
+allContracts: true
+testMode: assertion
+coverage: true
+corpusDir: 'corpus-echidna'
+seqLen: 100
+# prefix: echidna_
+
+# testLimit: 100000000000
+# testLimit: 10000 # 10K
+# testLimit: 10000000 # 10M
+# testLimit: 100000000 # 100M
+

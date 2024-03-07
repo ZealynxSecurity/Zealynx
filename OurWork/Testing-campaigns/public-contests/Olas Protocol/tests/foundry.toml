@@ -1,0 +1,14 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# test = 'foundry_test'
+# cache_path  = 'forge-cache'
+# gas_reports = ["*"]
+# no_match_contract = 'Echidna'
+
+[fuzz]
+runs = 256
+
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
