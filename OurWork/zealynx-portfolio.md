@@ -11,3 +11,5 @@
 | ID  |              Protocol              | Platform Contest link                                      |                   Testing Campaign link                   |     Date      |
 | :-: | :--------------------------------: | ---------------------------------------------------------- | :-------------------------------------------------------: | :-----------: |
 | 01  | [Autonolas](https://olas.network/) | [Code4rena](https://code4rena.com/audits/2023-12-olas#top) | [Autonolas](https://github.com/ZealynxSecurity/Autonolas) | December 2023 |
+| 02  | [Math Master](https://www.codehawks.com/contests/clrp8xvh70001dq1os4gaqbv5)  | [CodeHawks](https://www.codehawks.com/contests/clrp8xvh70001dq1os4gaqbv5) | [Math Master](https://github.com/ZealynxSecurity/FVMath) | February 2023 |
+
