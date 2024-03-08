@@ -4,18 +4,12 @@
 
 To be able to use this repository, you need to have the following installed:
 
-- Foundry
-- https://book.getfoundry.sh/getting-started/installation
-- Halmos
-- https://github.com/a16z/halmos/tree/main
-- Echidna
-- https://github.com/crytic/echidna?tab=readme-ov-file#installation
-- Medusa
-- https://github.com/crytic/medusa?tab=readme-ov-file#installation
-- Ityfuzz
-- https://docs.ityfuzz.rs/installation-and-building
-- Blazo
-- https://github.com/fuzzland/blazo
+- [Foundry](https://book.getfoundry.sh/getting-started/installation)
+- [Halmos](https://github.com/a16z/halmos/tree/main)
+- [Echidna](https://github.com/crytic/echidna?tab=readme-ov-file#installation)
+- [Medusa](https://github.com/crytic/medusa?tab=readme-ov-file#installation)
+- [Ityfuzz](https://docs.ityfuzz.rs/installation-and-building)
+- [Blazo](https://github.com/fuzzland/blazo)
 
 # Init:
 
@@ -41,7 +35,7 @@ We have been conducting fuzzing tests and invariant tests to verify the proper f
 forge test --mc OLASTest
 ```
 
-<img width="433" alt="image" src="OurWork/assets/1.png">
+<img width="433" alt="image" src="assets/1.png">
 
 ### - veOLASTest
 
@@ -49,7 +43,7 @@ forge test --mc OLASTest
 forge test --mc veOLASTest
 ```
 
-<img width="355" alt="image" src="OurWork/assets/2.png">
+<img width="355" alt="image" src="assets/2.png">
 
 ## Halmos
 
