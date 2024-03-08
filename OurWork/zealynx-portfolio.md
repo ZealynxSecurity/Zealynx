@@ -8,6 +8,7 @@
 
 ## Public Contests
 
-| ID  |              Protocol              | Platform Contest link                                      |                   Testing Campaign link                   |     Date      |
-| :-: | :--------------------------------: | ---------------------------------------------------------- | :-------------------------------------------------------: | :-----------: |
-| 01  | [Autonolas](https://olas.network/) | [Code4rena](https://code4rena.com/audits/2023-12-olas#top) | [Autonolas](https://github.com/ZealynxSecurity/Autonolas) | December 2023 |
+| ID  |                   Protocol                    | Platform Contest link                                                     |                   Testing Campaign link                   |     Date      |
+| :-: | :-------------------------------------------: | ------------------------------------------------------------------------- | :-------------------------------------------------------: | :-----------: |
+| 02  | [Beanstalk Part 1](https://beanstalkapp.com/) | [Codehawks](https://www.codehawks.com/contests/clsxlpte900074r5et7x6kh96) |                           Soon                            | February 2024 |
+| 01  |      [Autonolas](https://olas.network/)       | [Code4rena](https://code4rena.com/audits/2023-12-olas#top)                | [Autonolas](https://github.com/ZealynxSecurity/Autonolas) | December 2023 |
