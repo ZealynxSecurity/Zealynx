@@ -4,6 +4,7 @@
 
 | ID  |                   Client                    | Type                              |                      Testing Campaign link                      |     Date     |
 | :-: | :-----------------------------------------: | --------------------------------- | :-------------------------------------------------------------: | :----------: |
+| 02  | [Possum Labs](https://www.possumlabs.io/) | Stake yield-bearing assets | Soon | March 2024 |
 | 01  | [Bastion Wallet](https://bastionwallet.io/) | ERC-4337, Account Abstraction SDK | [Github Repo](https://github.com/ZealynxSecurity/BastionWallet) | January 2024 |
 
 ## Public Contests
