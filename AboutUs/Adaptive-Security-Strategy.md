@@ -9,4 +9,5 @@ is to benefit from a technique used by aerospace engineers in spacecraft design.
 #### Future-proof secured contracts
 Stay ahead of potential vulnerabilities, even as new features are developed or existing ones are enhanced.
 
-Partner with us to ensure your smart contracts are **not just secure for today but resilient and reliable for the future**. 
+#### Partner with us 
+to ensure your smart contracts are **not just secure for today but resilient and reliable for the future**. 
