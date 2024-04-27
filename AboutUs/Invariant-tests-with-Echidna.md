@@ -1,7 +1,5 @@
 # How Fuzzing and Invariant tests with Echidna help secure Smart Contracts?
 
-## How do invariant tests with Echidna help secure your Smart Contracts?
-
 ### 1. Random Sequence Generation
 
 **Concept:**

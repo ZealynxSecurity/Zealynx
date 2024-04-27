@@ -1,4 +1,4 @@
-### Adaptive Security Strategy
+## Adaptive Security Strategy
 
 #### Integrating Fuzzing
 is like hiring a large amount of testers that would sit down 24/7 to randomly test the protocol with hundred of thousands of sequences for a month to try to break it and find vulnerabilities but instead, when executing the fuzz tests, doing that in less than a minute.
