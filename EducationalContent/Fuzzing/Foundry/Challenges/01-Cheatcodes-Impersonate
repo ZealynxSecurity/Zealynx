@@ -59,5 +59,7 @@ contract BillionaireClubTest is Test {
 ### Explanation:
 
 - Contract Setup: The BillionaireClub contract has a function addBillionaire that requires the caller to be a billionaire, as verified by the isBillionaire function. For demonstration, isBillionaire just checks if the address is address(1), which we pretend is a billionaire.
+  
 - Test Contract: In the BillionaireClubTest contract, the setUp function initializes a new instance of BillionaireClub.
+  
 - Test Function (testImpersonateBillionaire): This function uses vm.prank to simulate a transaction from address(1), which is allowed to add itself as a billionaire. The test checks if the billionaire status is correctly updated in the contract.
