@@ -14,3 +14,5 @@ It means that contracts on Solana can be updated directly, without the need for 
 You don't need to write a proxy to update your contracts. Additionally, Solana does away with `delegatecall`, a common function in Solidity used primarily to enable contract updates through a proxy contract. In Solana, as the bytecode of a program can be updated directly, there is no need to resort to `delegatecall` to invoke new implementation contracts.
 
 We hope you found this interesting, stay tuned for more posts like this.
+
+<img width="606" alt="image" src="image/Solana_1.png">
