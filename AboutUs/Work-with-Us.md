@@ -34,6 +34,9 @@ Founded in January 2024
 - [Side.xyz](https://side.xyz/)
 - [Possum Labs](https://www.possumlabs.io/)
 - [Aurora](https://aurora.dev/) (NEAR Protocol-based)
+- [Revert](https://revert.finance/)
+- [Wedefin](https://www.wedefin.com/)
+- [Glif](https://www.glif.io/en) (Filecoin Blockchain)
 
 # Public Achievements
 
