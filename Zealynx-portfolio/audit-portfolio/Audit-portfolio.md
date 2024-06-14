@@ -6,7 +6,7 @@
 
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
-| 03  | [Glif](https://glif.io/) | Staking |   Soon   |  June 2024 |
+| 03  | [Glif](https://glif.io/) | Liquidity Mining |   Soon   |  June 2024 |
 | 02  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund |   Soon   |  May 2024 |
 | 01  | [Bastion Wallet](https://bastionwallet.io/) | ERC-4337, Account Abstraction SDK |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/BastionWallet/BastionWallet-SM-Security-Review.pdf)   |  March 2024 |
 

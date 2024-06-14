@@ -4,6 +4,7 @@
 
 | ID  |                   Client                    | Type                              |                      Testing Campaign link                      |     Date     |
 | :-: | :-----------------------------------------: | --------------------------------- | :-------------------------------------------------------------: | :----------: |
+| 05  | [Glif](https://glif.io/)  | Liquidity Mining | Soon | June 2024 |
 | 04  | [Revert](https://revert.finance/) | AMM Liquidity Providers | Soon | June 2024 |
 | 03  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | Soon | May 2024 |
 | 02  | [Possum Labs](https://www.possumlabs.io/) | Stake yield-bearing assets | Soon | March 2024 |
