@@ -4,11 +4,12 @@
 
 | ID  |                   Client                    | Type                              |                      Testing Campaign link                      |     Date     |
 | :-: | :-----------------------------------------: | --------------------------------- | :-------------------------------------------------------------: | :----------: |
+| 07  | [Glif](https://glif.io/)  | DeFi primitive of Filecoin | Soon | July 2024 |
 | 05  | [Glif](https://glif.io/)  | Liquidity Mining | Soon | June 2024 |
-| 04  | [Revert](https://revert.finance/) | AMM Liquidity Providers | Soon | June 2024 |
+| 04  | [Revert](https://revert.finance/) | AMM Liquidity Providers | [GitHub Repo](https://github.com/ZealynxSecurity/Revert-Protocol) | June 2024 |
 | 03  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | Soon | May 2024 |
-| 02  | [Possum Labs](https://www.possumlabs.io/) | Stake yield-bearing assets | Soon | March 2024 |
-| 01  | [Bastion Wallet](https://bastionwallet.io/) | ERC-4337, Account Abstraction SDK | [Github Repo](https://github.com/ZealynxSecurity/BastionWallet) | January 2024 |
+| 02  | [Possum Labs](https://www.possumlabs.io/) | Stake yield-bearing assets | [GitHub Repo](https://github.com/ZealynxSecurity/Portals-local) | March 2024 |
+| 01  | [Bastion Wallet](https://bastionwallet.io/) | ERC-4337, Account Abstraction SDK | [GitHub Repo](https://github.com/ZealynxSecurity/BastionWallet) | January 2024 |
 
 ## Public Contests
 
