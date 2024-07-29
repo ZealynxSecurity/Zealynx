@@ -6,11 +6,13 @@
 
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
-| 05  | [BrainStarter](http://brainstarter.io/) | Incubates and tokenikes projects |   Soon   |  July 2024 |
-| 04  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   Soon   |  July 2024 |
-| 03  | [Glif](https://glif.io/) | Liquidity Mining |   Soon   |  June 2024 |
-| 02  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Wedefin-Audit-Report.pdf)   |  May 2024 |
-| 01  | [Bastion Wallet](https://bastionwallet.io/) | ERC-4337, Account Abstraction SDK |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/BastionWallet/BastionWallet-SM-Security-Review.pdf)   |  March 2024 |
+| 07  | [BrainStarter](http://brainstarter.io/) | Incubates and tokenikes projects |   Soon   |  July 2024 |
+| 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   Soon   |  July 2024 |
+| 05  | [Ribbon](https://ribbonprotocol.org/) | Operating system for Web3 HealthFi |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Ribbon-Audit-report.pdf)   |  June 2024 |
+| 04  | [Glif](https://glif.io/) | Liquidity Mining |   Soon   |  June 2024 |
+| 03  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Wedefin-Audit-Report.pdf)   |  May 2024 |
+| 02  | [Bastion Wallet](https://bastionwallet.io/) | ERC-4337, Account Abstraction SDK |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/BastionWallet/BastionWallet-SM-Security-Review.pdf)   |  March 2024 |
+| 01  | [RXT World](https://www.rxt.world/) | RXT Token |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Collaborations/Soken/RXT%20Token%20Smart%20Contract%20Audit.pdf)   |  October 2023 |
 
 ## NEAR
 
