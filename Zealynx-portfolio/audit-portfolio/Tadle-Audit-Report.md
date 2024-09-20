@@ -1,12 +1,11 @@
 # Index
 
-| Nº | Title                                                                 | Sections                                                                                     |
-|-----|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| 1   | [Incorrect Authority Check in DeliveryPlace Contract](#incorrect-authority-check-in-deliveryplace-contract) | - [Description](#description)<br>- [Impact](#impact)<br>- [Mitigation](#mitigation)        |
-| 2   | [Referral Update Function Inadvertently Allows Creation of New Referrals](#referral-update-function-inadvertently-allows-creation-of-new-referrals) | - [Summary](#summary)<br>- [Vulnerability Details](#vulnerability-details)<br>- [Impact](#impact)<br>- [Tools Used](#tools-used)<br>- [Recommendations](#recommendations) |
+| Nº | Issue                                                                 |
+|-----|------------------------------------------------------------------------|
+| 1   | [Incorrect Authority Check in DeliveryPlace Contract](#incorrect-authority-check-in-deliveryplace-contract) |
+| 2   | [Referral Update Function Inadvertently Allows Creation of New Referrals](#referral-update-function-inadvertently-allows-creation-of-new-referrals) |
 
 ---
-
 
 # About the Project
 
@@ -18,7 +17,9 @@ Our first product, the Points Marketplace, empowers projects to unlock the liqui
     <img width="300" alt="image" src="image/tadle.png">
 </p>
 
+# Overview
 
+This document provides details about the public contest hosted on CodeHawks for the Tadle project, in which we are participating by highlighting the vulnerabilities we found during this contest.
 
 # [Incorrect Authority Check in DeliveryPlace Contract](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1099)
 

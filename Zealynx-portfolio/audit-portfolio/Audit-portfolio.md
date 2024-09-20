@@ -24,7 +24,7 @@
 
 # Public Contests
 
-| ID  |                                   Contest                                   | Report link                                                     |                   Reward                   |     Date      |
-| :-: | :-------------------------------------------------------------------------: | --------------------------------------------------------------------------- | :-------------------------------------------------------: | :-----------: |
-| 01  |                [Beanstalk Part 1](https://www.codehawks.com/contests/clsxlpte900074r5et7x6kh96)                | [Beanstalk Part 1](https://github.com/ZealynxSecurity/Beanstalk-Part-1) | $8,000                            | February 2024 |
-| 02  |                                       [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)                                   | [Tadle Report](Tadle.md)                                                              | $2.33                                               | Aug 5th, 2024 → Aug 12th, 2024          |
+| ID  |                                   Contest                                   | Report link                                                     |                   Reward                   |   Findings |     Date      |
+| :-: | :-------------------------------------------------------------------------: | --------------------------------------------------------------------------- | :-------------------------------------------------------: | :--------: | :-----------: |
+| 01  |                [Beanstalk Part 1](https://www.codehawks.com/contests/clsxlpte900074r5et7x6kh96)                | [Beanstalk Part 1](https://github.com/ZealynxSecurity/Beanstalk-Part-1) | $8,000                            |     1M     | February 2024 |
+| 02  |                                       [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)                                   | [Tadle Report](Tadle.md)                                                              | $2.33                                               |     2H     | Aug 5th, 2024 → Aug 12th, 2024          |
