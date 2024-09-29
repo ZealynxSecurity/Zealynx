@@ -6,7 +6,7 @@
 
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
-| 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   Soon   |  July 2024 |
+| 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Lido-Finance-Report.pdf)   |  July 2024 |
 | 05  | [Ribbon](https://ribbonprotocol.org/) | Operating system for Web3 HealthFi |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Ribbon-Audit-report.pdf)   |  June 2024 |
 | 04  | [Glif](https://glif.io/) | Liquidity Mining |   Soon   |  June 2024 |
 | 03  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Wedefin-Audit-Report.pdf)   |  May 2024 |
