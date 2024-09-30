@@ -6,6 +6,7 @@
 
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
+| 07  | [Monadex](https://www.monadex.exchange/) | DEX with Raffle |   Soon   |  September 2024 |
 | 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Lido-Finance-Report.pdf)   |  July 2024 |
 | 05  | [Ribbon](https://ribbonprotocol.org/) | Operating system for Web3 HealthFi |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Ribbon-Audit-report.pdf)   |  June 2024 |
 | 04  | [Glif](https://glif.io/) | Liquidity Mining |   [Link](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md)   |  June 2024 |
@@ -26,5 +27,5 @@
 
 | ID  |                                   Contest                                   | Report link                                                     |                   Reward                   |   Findings |     Date      |
 | :-: | :-------------------------------------------------------------------------: | --------------------------------------------------------------------------- | :-------------------------------------------------------: | :--------: | :-----------: |
-| 01  |                [Beanstalk Part 1](https://www.codehawks.com/contests/clsxlpte900074r5et7x6kh96)                | [Beanstalk Part 1](https://github.com/ZealynxSecurity/Beanstalk-Part-1) | $8,000                            |     1M     | February 2024 |
 | 02  |                                       [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)                                   | [Tadle Report](Tadle.md)                                                              | $2.33                                               |     2H     | Aug 5th, 2024 → Aug 12th, 2024          |
+| 01  |                [Beanstalk Part 1](https://www.codehawks.com/contests/clsxlpte900074r5et7x6kh96)                | [Beanstalk Part 1](https://github.com/ZealynxSecurity/Beanstalk-Part-1) | $8,000                            |     1M     | February 2024 |
