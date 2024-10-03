@@ -6,6 +6,7 @@
 
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
+| 08  | [Badger DAO](https://badger.com/) | Staking vault |   Soon   |  October 2024 |
 | 07  | [Monadex](https://www.monadex.exchange/) | DEX with Raffle |   Soon   |  September 2024 |
 | 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Lido-Finance-Report.pdf)   |  July 2024 |
 | 05  | [Ribbon](https://ribbonprotocol.org/) | Operating system for Web3 HealthFi |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Ribbon-Audit-report.pdf)   |  June 2024 |
