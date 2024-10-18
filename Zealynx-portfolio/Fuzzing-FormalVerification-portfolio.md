@@ -4,7 +4,7 @@
 
 | ID  |                   Client                    | Type                              |                      Testing Campaign link                      |     Date     |
 | :-: | :-----------------------------------------: | --------------------------------- | :-------------------------------------------------------------: | :----------: |
-| 07  | [Glif](https://glif.io/)  | DeFi primitive of Filecoin | Soon | July 2024 |
+| 07  | [Glif](https://glif.io/)  | DeFi primitive of Filecoin | [Github Repo](https://github.com/ZealynxSecurity/pools) | July 2024 |
 | 05  | [Glif](https://glif.io/)  | Liquidity Mining | [Github Repo](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md) | June 2024 |
 | 04  | [Revert](https://revert.finance/) | AMM Liquidity Providers | [GitHub Repo](https://github.com/ZealynxSecurity/Revert-Protocol) | June 2024 |
 | 03  | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | [Github Repo](https://github.com/ZealynxSecurity/Wedefin/tree/main/test) | May 2024 |
