@@ -7,7 +7,7 @@
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
 | 09  | [Badger DAO](https://badger.com/) | Staking vault |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/BadgerDAO-Audit-Report.pdf)   |  October 2024 |
-| 08  | [Redstone](https://redstone.finance/) | Modular Oracles |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/CODESPECT_REDSTONE_AUDIT_ORACLES_DRAFT.pdf)   |  September 2024 |
+| 08  | [Redstone](https://redstone.finance/) | Modular Oracles |   Soon   |  September 2024 |
 | 07  | [Monadex](https://www.monadex.exchange/) | DEX with Raffle |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Monadex_Report.pdf)     |  September 2024 |
 | 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Lido-Finance-Report.pdf)   |  July 2024 |
 | 05  | [Ribbon](https://ribbonprotocol.org/) | Operating system for Web3 HealthFi |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Ribbon-Audit-report.pdf)   |  June 2024 |
