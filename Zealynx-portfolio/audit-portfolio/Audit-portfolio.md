@@ -6,9 +6,13 @@
 
 | ID  |            Client             | Type     | Link |    Date    |
 | :-: | :---------------------------: | ------- | :------: | :--------: |
+| 13  | [MaxAPY](https://app.maxapy.io/) |  CCIP bridge |   [Soon]()   |  May 2025 |
+| 12  | [Ample Protocol](https://www.ampleprotocol.xyz/) | Staking Module |   [Soon]()   |  May 2025 |
+| 11  | [Paymatic](https://paymatic.xyz/) | Payment Gateway |   [Soon]()   |  May 2025 |
+| 10  | [TokenTable](https://sign.global/tokentable) | Token Distribution |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Collaborations/016_CODESPECT_TOKENTABLE_MERKLE_DISTRIBUTOR.pdf)   |  April 2025 |
 | 09  | [Badger DAO](https://badger.com/) | Staking vault |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/BadgerDAO-Audit-Report.pdf)   |  October 2024 |
-| 08  | [Redstone](https://redstone.finance/) | Modular Oracles |   [Link](CODESPECT_REDSTONE_AUDIT_ORACLES.pdf)   |  September 2024 |
-| 07  | [Monadex](https://www.monadex.exchange/) | DEX with Raffle |   Soon     |  September 2024 |
+| 08  | [Redstone](https://redstone.finance/) | Modular Oracles |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Collaborations/Codespect/CODESPECT_REDSTONE_AUDIT_ORACLES.pdf)   |  September 2024 |
+| 07  | [Monadex](https://www.monadex.exchange/) | DEX with Raffle |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Monadex%20Report.pdf)     |  September 2024 |
 | 06  | [LIDO Finance](https://lido.fi/) | Staking Module + Staking Router |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Lido-Finance-Report.pdf)   |  July 2024 |
 | 05  | [Ribbon](https://ribbonprotocol.org/) | Operating system for Web3 HealthFi |   [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Ribbon-Audit-report.pdf)   |  June 2024 |
 | 04  | [Glif](https://glif.io/) | Liquidity Mining |   [Link](https://github.com/ZealynxSecurity/Glif_LiquidityMinerLP/blob/main/PreAudit-Report.md)   |  June 2024 |
